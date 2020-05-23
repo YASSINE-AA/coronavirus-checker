@@ -12,6 +12,7 @@ If you're on linux or mac:
 pip3 install selenium
 ```
 Next, you need to download Chrome's webdriver from [this](https://sites.google.com/a/chromium.org/chromedriver/downloads) site.
+
 After downloading the appropriate compressed archive file, you want to extract that to a folder and follow these steps:
 
 For windows: simply click on the .exe file and it'll magically work.
