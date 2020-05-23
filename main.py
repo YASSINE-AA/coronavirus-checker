@@ -1,5 +1,6 @@
 from selenium import webdriver
 import settings
+# Author: Yassine Ahmed Ali
 
 
 class CoronaCases:
