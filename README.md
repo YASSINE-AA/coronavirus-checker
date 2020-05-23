@@ -1,5 +1,5 @@
 # Coronavirus-Checker
-This simple program, allows you to check the number of deaths, cases and recovered cases in any country. You simply need to type the name of the country.
+This simple program, allows you to check the number of deaths, active and recovered cases in any country. You simply need to type the name of the country.
 ### Setting it up:
 First, you need to install selenium.
 If you're on windows:
