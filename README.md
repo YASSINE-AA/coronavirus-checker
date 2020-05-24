@@ -24,4 +24,4 @@ sudo chown root:root /usr/bin/chromedriver
 sudo chmod +x /usr/bin/chromedriver
 ```
 
-Have fun!
+Happy coding!
